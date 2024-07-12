@@ -25,3 +25,4 @@
     - name: Save configuration
       ios_config:
         save_when: modified
+        hello: true
